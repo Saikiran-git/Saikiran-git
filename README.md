@@ -5,8 +5,8 @@
 
 ### I'm Kiran. I'm a passionate web developer from India.
 
-- 🔭 I’m currently working on everything :wink:
-- 🌱 I’m currently learning everything :rofl:
+- 🔭 I’m currently working on everything
+- 🌱 I’m currently learning everything
 - 💬 Ask me about Java, C++
 
 ---
