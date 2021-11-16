@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saikiran-git&label=Profile%20views&color=0e75b6&style=flat" alt="Saikiran-git" /> </p>
 
-- 🔭 I’m currently working on **whatever I find**
+- 🔭 I’m currently working on **everything**
 
-- 🌱 I’m currently learning **whatever I see**
+- 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **Java, C++**
 
