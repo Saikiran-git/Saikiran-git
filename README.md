@@ -6,10 +6,10 @@
 ### I'm Kiran. I'm a passionate web developer from India.
 
 - 🔭 I’m currently working on everything
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning what ever I come across
 - 💬 Ask me about Java, C++
 - 👀 I’m interested in competitive coding and web development
-- 💞️ I’m looking to collaborate on Java, C++
+- 💞️ I’m looking to collaborate on Java, C++, spring boot or any web back end development
 
 ---
 
