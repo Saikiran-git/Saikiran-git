@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning everything
 - 💬 Ask me about Java, C++
+- 👀 I’m interested in competitive coding and web development
+- 💞️ I’m looking to collaborate on Java, C++
 
 ---
 
@@ -31,7 +33,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
  ---
 
   <p align="center">
-    Show ❤️ by starring the repositories you find helpful!
+    Any help for collaboration? Please feel free to reach me out!
     
   </p>
 </p>
