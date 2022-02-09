@@ -33,7 +33,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
  ---
 
   <p align="center">
-    Any help for collaboration? Please feel free to reach me out!
+    *****Any help for collaboration? Please feel free to reach me out!*****
     
   </p>
 </p>
