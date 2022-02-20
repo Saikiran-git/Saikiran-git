@@ -102,8 +102,8 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 ---
  -->
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Kiran's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saikiran-git&theme=react-dark)](https://github.com/Saikiran-git/github-readme-activity-graph)
-
+<!--[![Kiran's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saikiran-git&theme=react-dark)](https://github.com/Saikiran-git/github-readme-activity-graph)
+-->
   
 
 ---
