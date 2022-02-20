@@ -32,7 +32,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
   <!--<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-git&count_private=true&theme=dracula">-->  
 
 </p>
-<center><a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a><!center>
+&Tab &Tab &Tab <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
  ---
 
