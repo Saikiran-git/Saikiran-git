@@ -1,11 +1,11 @@
-<!--<h2 align="center"> Hello there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hello there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
 
 
   <!-- ALREADY COMMENTED img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" /11-->
 
-<!--### I'm Kiran. I'm a passionate web developer from India.
+### I'm Kiran. I'm a passionate web developer from India.
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning what ever I come across
@@ -31,7 +31,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Saikiran-git&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <!--<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-git&count_private=true&theme=dracula">-->  
 
-<!--</p>
+</p>
 
  ---
 
@@ -41,16 +41,16 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
   </p>
 </p>
 -->
-<!-- README FILE CODE -->
+<!-- README FILE CODE
 
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!!</h2>
+<!--<h2 align=center>👋 Good to have you here!!</h2>
 
 
 <!--ABOUT ME CODE-->
-🌱 **About myself**<br>
+<!--🌱 **About myself**<br>
 
 ✔️ I am **Sai Kiran**, currently working at *Cognizant Technology Solutions*. <br>
 
@@ -60,47 +60,47 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 ✔️ Hackerrank, Codechef are my active coding plaforms
 
-<br>
+<br>-->
 
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+<!--<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>-->
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-Sai Kiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikiranask/)]
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Sai Kiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikiranask/)]
 
 [![Gmail Badge](https://img.shields.io/badge/-saisuparnasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saisuparnasa@gmail.com)]
 
 ---
-
+-->
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
+<!-- 📶 Stats:<br><br>-->
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-git&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-git&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
- 
+ -->
 <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/Saikiran-git/count.svg?align=center)
-
+-->
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Saikiran-git)  
+ <!--![Github stats](https://github-readme-stats.vercel.app/api?username=Saikiran-git)  
  
  
  <hr>
- 
+ -->
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran-git&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran-git&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
- 
+ -->
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Kiran's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saikiran-git&theme=react-dark)](https://github.com/Saikiran-git/github-readme-activity-graph)
 
