@@ -7,11 +7,11 @@
 
 ### I'm Kiran. I'm a passionate software developer from India.
 
-- 🔭 I’m currently working on everything
-- 🌱 I’m currently learning what ever I come across
+- 🔭 I’m currently working on ML project
+- 🌱 I’m currently learning AI/ML/DL
 - 💬 Ask me about Java, C++
-- 👀 I’m interested in competitive coding and web development
-- 💞️ I’m looking to collaborate on Java, C++, spring boot or any web back end development
+- 👀 I’m interested in competitive coding and software development
+- 📫 How to reach me saikiranemailid@gmail.com
 
 ---
 
