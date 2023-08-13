@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ML project
 - 🌱 I’m currently learning AI/ML/DL
-- 💬 Ask me about Java, C++
+- 💬 Ask me about Java
 - 👀 I’m interested in competitive coding and software development
 - 📫 How to reach me saikiranemailid@gmail.com
 
