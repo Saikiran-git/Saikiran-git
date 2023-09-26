@@ -7,8 +7,8 @@
 
 ### I'm Kiran. I'm a passionate software developer in this world.
 
-- 🔭 I’m currently working on ML project
-- 🌱 I’m currently learning AI/ML/DL
+- 🔭 I’m currently working on a Full-stack project
+- 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Java
 - 👀 I’m interested in competitive coding and software development
 - 📫 How to reach me saikiranemailid@gmail.com
