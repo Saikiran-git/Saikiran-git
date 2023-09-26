@@ -5,7 +5,7 @@
 
   <!-- ALREADY COMMENTED img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" /11-->
 
-### I'm Kiran. I'm a passionate software developer from the USA.
+### I'm Kiran. I'm a passionate software developer in this world.
 
 - 🔭 I’m currently working on ML project
 - 🌱 I’m currently learning AI/ML/DL
