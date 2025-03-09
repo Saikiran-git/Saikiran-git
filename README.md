@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Java
 - 👀 I’m interested in competitive coding and software development
-- 📫 How to reach me saikiranemailid@gmail.com
+- 📫 How to reach me saikiranemailid3@gmail.com
 
 ---
 
